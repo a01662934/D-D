@@ -1,0 +1,16 @@
+ID,nombre ,tipo ,damage
+1,Bola de Fuego,Hechizo,400
+2,Rayo de Hielo,Hechizo,190
+3,Corteza de Espinas,Habilidad,1
+4,Golpe de Espada,Habilidad,1
+5,Descarga de Rel�mpagos,Hechizo,310
+6,Disparo Mortal,Habilidad,150
+7,Llamarada �cida,Hechizo,230
+8,Flechas Luminosas,Habilidad,180
+9,Toque G�lido,Hechizo,350
+10,Tormenta de Meteoros,Hechizo,390
+11,Emboscada Sigilosa,Habilidad,95
+12,Estallido de Veneno,Habilidad,200
+13,Explosi�n Arcana,Habilidad,400
+14,Golpe de Maza,Habilidad,190
+15,Descarga Mental,Hechizo,222

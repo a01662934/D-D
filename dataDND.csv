@@ -1,0 +1,501 @@
+City,Connected To,Distance (km)
+Candlekeep,Phlan,61
+Daggerford,Port Llast,344
+Port Llast,Beregost,219
+Beregost,Waterdeep,299
+Duskwood,Nashkel,206
+Shadowdale,Nightstone,90
+Beregost,Greenest,458
+Nashkel,Neverwinter,128
+Red Larch,Lonelywood,235
+Beregost,Greenest,345
+Shadowdale,Myth Drannor,296
+Thundertree,Calimport,400
+Helm's Hold,Shadowdale,243
+Shadowdale,Temple of Elemental Evil,437
+Triboar,Nightstone,390
+Phlan,Skullport,417
+Beregost,Highcliff,130
+Calimport,Duskwood,259
+Waterdeep,High Forest,87
+Elmwood,Myth Drannor,292
+Beregost,Luskan,85
+Peldan's Helm,Mirabar,104
+Mt. Grimfang,Highcliff,283
+Karak Eight Peaks,Dagger Falls,130
+Triboar,Luskan,241
+Icewind Dale,Karak Eight Peaks,244
+High Forest,Luskan,87
+Thundertree,Port Llast,496
+Daggerford,Dagger Falls,412
+High Forest,Shadowdale,237
+Highcliff,Duskwood,62
+Myth Drannor,Beregost,339
+Amn,Silverymoon,78
+Dagger Falls,Moonshae Isles,295
+Waterdeep,Karak Eight Peaks,146
+Westgate,Port Llast,251
+Moonshae Isles,Mirabar,448
+Nashkel,Ironforge,247
+Red Larch,Elmwood,256
+Baldur's Gate,Calimport,293
+Duskwood,Triboar,360
+Moonshae Isles,Candlekeep,159
+Peldan's Helm,Westgate,53
+Temple of Elemental Evil,Skullport,128
+Elmwood,Myth Drannor,309
+Elturel,Daggerford,416
+Amn,Karak Eight Peaks,349
+Phlan,Mount Celestia,362
+Highcliff,Candlekeep,376
+Elmwood,Shadowdale,122
+Highcliff,Temple of Elemental Evil,133
+Elturel,Waterdeep,223
+Amn,Waterdeep,481
+Nashkel,Waterdeep,155
+Mirabar,Waterdeep,301
+Daggerford,Temple of Elemental Evil,475
+Neverwinter,Mt. Grimfang,358
+Icewind Dale,Elturel,375
+Highcliff,Calimport,188
+Menzoberranzan,Thundertree,465
+Dagger Falls,Nashkel,241
+Amn,Temple of Elemental Evil,276
+Dagger Falls,Nightstone,440
+Highcliff,Helm's Hold,193
+Ironforge,Helm's Hold,72
+Mirabar,Daggerford,73
+Greenest,Calimport,77
+Baldur's Gate,High Forest,219
+Myth Drannor,Icewind Dale,399
+Westgate,Amn,336
+Ironforge,Karak Eight Peaks,333
+Moonshae Isles,Karak Eight Peaks,203
+Greenest,Westgate,133
+Shadowdale,Phlan,481
+Ironforge,Red Larch,69
+Duskwood,Port Llast,443
+Myth Drannor,Temple of Elemental Evil,109
+Port Llast,Highcliff,300
+Dagger Falls,Baldur's Gate,286
+Calimport,High Forest,479
+Duskwood,Mount Celestia,450
+Duskwood,Myth Drannor,255
+Highcliff,Myth Drannor,269
+Karak Eight Peaks,Ironforge,444
+Moonshae Isles,Westgate,60
+Shadowdale,Highcliff,102
+Triboar,Neverwinter,405
+Highcliff,Icewind Dale,313
+Temple of Elemental Evil,Triboar,440
+Highcliff,Temple of Elemental Evil,65
+Mount Celestia,Amn,178
+Baldur's Gate,Mt. Grimfang,279
+Red Larch,Mount Celestia,101
+Highcliff,Myth Drannor,244
+Port Llast,Temple of Elemental Evil,73
+Moonshae Isles,Amn,153
+Moonshae Isles,Candlekeep,428
+Port Llast,Duskwood,223
+Temple of Elemental Evil,Myth Drannor,306
+Waterdeep,Beregost,189
+Highcliff,Candlekeep,402
+Shadowdale,Highcliff,442
+Amn,Daggerford,296
+Calimport,Myth Drannor,368
+Greenest,Luskan,221
+Baldur's Gate,Thundertree,79
+Temple of Elemental Evil,Mirabar,474
+Shadowdale,Highcliff,243
+Mount Celestia,Westgate,136
+Myth Drannor,Mt. Grimfang,117
+Lonelywood,Icewind Dale,419
+Myth Drannor,Temple of Elemental Evil,162
+Helm's Hold,Elmwood,124
+Westgate,Lonelywood,413
+Elmwood,Lonelywood,112
+Luskan,Westgate,272
+Baldur's Gate,Peldan's Helm,68
+Thundertree,Phlan,73
+Dagger Falls,Mirabar,113
+Myth Drannor,Westgate,258
+Highcliff,Silverymoon,374
+Skullport,Phlan,294
+Peldan's Helm,Daggerford,72
+Mt. Grimfang,Mount Celestia,314
+Beregost,Westgate,183
+Luskan,Silverymoon,440
+Karak Eight Peaks,Duskwood,80
+Daggerford,Westgate,109
+Duskwood,Westgate,272
+High Forest,Amn,94
+Thundertree,High Forest,289
+Calimport,Westgate,391
+Highcliff,Myth Drannor,371
+Nashkel,Dagger Falls,442
+Westgate,Nashkel,298
+Lonelywood,Daggerford,85
+Karak Eight Peaks,Myth Drannor,500
+Westgate,Greenest,108
+Temple of Elemental Evil,Beregost,400
+Mount Celestia,Temple of Elemental Evil,396
+Duskwood,Lonelywood,435
+Red Larch,Beregost,418
+Temple of Elemental Evil,Mt. Grimfang,195
+Thundertree,Amn,120
+Karak Eight Peaks,Westgate,169
+Triboar,Daggerford,197
+Phlan,Westgate,167
+Peldan's Helm,Triboar,272
+Mount Celestia,Myth Drannor,423
+Thundertree,Helm's Hold,454
+Highcliff,Mt. Grimfang,205
+Temple of Elemental Evil,Menzoberranzan,153
+Luskan,Nightstone,277
+Mount Celestia,Beregost,355
+Silverymoon,Amn,422
+Waterdeep,Lonelywood,78
+Port Llast,Mount Celestia,473
+Red Larch,Highcliff,199
+Beregost,Duskwood,290
+Duskwood,Mt. Grimfang,485
+Nightstone,Elturel,118
+High Forest,Nashkel,123
+Nightstone,Myth Drannor,490
+Highcliff,Thundertree,224
+Lonelywood,Ironforge,108
+Icewind Dale,Westgate,431
+Candlekeep,Moonshae Isles,302
+Shadowdale,Thundertree,126
+Icewind Dale,Moonshae Isles,480
+Temple of Elemental Evil,Duskwood,314
+Highcliff,Daggerford,150
+Amn,Ironforge,305
+Mt. Grimfang,Silverymoon,176
+Thundertree,Myth Drannor,307
+Triboar,Myth Drannor,272
+Highcliff,Beregost,75
+Mt. Grimfang,Temple of Elemental Evil,376
+Waterdeep,Icewind Dale,448
+Triboar,Daggerford,186
+Shadowdale,Elmwood,179
+Beregost,Moonshae Isles,309
+Luskan,Neverwinter,138
+Neverwinter,High Forest,469
+Highcliff,Shadowdale,312
+Beregost,Ironforge,239
+Menzoberranzan,High Forest,220
+Moonshae Isles,Icewind Dale,79
+Greenest,Mount Celestia,328
+Lonelywood,Beregost,291
+Menzoberranzan,Amn,101
+Thundertree,Elmwood,489
+Karak Eight Peaks,Beregost,335
+Menzoberranzan,Phlan,495
+Icewind Dale,Ironforge,393
+Dagger Falls,Red Larch,337
+Duskwood,Calimport,60
+Amn,Daggerford,466
+Duskwood,Luskan,74
+Temple of Elemental Evil,Luskan,428
+Menzoberranzan,Mount Celestia,50
+Thundertree,Port Llast,66
+Greenest,Beregost,321
+Dagger Falls,Myth Drannor,86
+Temple of Elemental Evil,Nightstone,249
+Neverwinter,Menzoberranzan,186
+Nashkel,Peldan's Helm,128
+Shadowdale,Daggerford,73
+Shadowdale,Mirabar,77
+Greenest,Icewind Dale,365
+Temple of Elemental Evil,Waterdeep,233
+Red Larch,Duskwood,53
+Temple of Elemental Evil,Silverymoon,76
+Peldan's Helm,Westgate,104
+Lonelywood,Waterdeep,106
+Skullport,Neverwinter,180
+Mt. Grimfang,Mount Celestia,359
+Westgate,Waterdeep,400
+Beregost,Greenest,175
+Red Larch,Calimport,168
+Moonshae Isles,Lonelywood,53
+Highcliff,Triboar,233
+Nightstone,Karak Eight Peaks,53
+Duskwood,Port Llast,189
+Phlan,Thundertree,76
+Westgate,Ironforge,341
+Nightstone,Moonshae Isles,321
+Waterdeep,Helm's Hold,92
+Menzoberranzan,Peldan's Helm,121
+Peldan's Helm,Westgate,239
+Highcliff,Mount Celestia,280
+Peldan's Helm,Neverwinter,248
+Nashkel,Triboar,466
+Mount Celestia,Elmwood,172
+Highcliff,Candlekeep,172
+Icewind Dale,Ironforge,485
+Mirabar,Elturel,306
+Mount Celestia,Baldur's Gate,70
+Luskan,Ironforge,154
+Menzoberranzan,Mount Celestia,277
+Helm's Hold,Highcliff,70
+Temple of Elemental Evil,Moonshae Isles,443
+Duskwood,Neverwinter,230
+Luskan,Silverymoon,125
+Mount Celestia,Neverwinter,350
+Karak Eight Peaks,Mount Celestia,173
+Westgate,Ironforge,83
+Port Llast,Icewind Dale,379
+Silverymoon,Lonelywood,319
+Myth Drannor,Neverwinter,195
+Highcliff,Amn,495
+Highcliff,Ironforge,257
+Karak Eight Peaks,Duskwood,332
+Red Larch,Waterdeep,161
+Elmwood,Beregost,227
+Daggerford,Moonshae Isles,84
+Silverymoon,Westgate,213
+Helm's Hold,Highcliff,398
+Duskwood,Mt. Grimfang,192
+Duskwood,Myth Drannor,344
+Duskwood,Nashkel,497
+Baldur's Gate,Westgate,305
+Highcliff,Mount Celestia,262
+Skullport,Port Llast,307
+Dagger Falls,Mt. Grimfang,267
+Waterdeep,Amn,356
+Elturel,Elmwood,215
+Mount Celestia,Greenest,481
+Greenest,Beregost,68
+Triboar,Luskan,153
+Helm's Hold,Beregost,164
+Myth Drannor,Menzoberranzan,313
+Mirabar,Ironforge,357
+Westgate,Port Llast,164
+Baldur's Gate,Daggerford,177
+Shadowdale,Phlan,148
+Icewind Dale,Mount Celestia,448
+Beregost,Skullport,340
+Triboar,Nashkel,340
+Dagger Falls,Highcliff,382
+Thundertree,Amn,224
+Mount Celestia,Highcliff,436
+Beregost,Mirabar,285
+Westgate,Daggerford,179
+Nightstone,Mirabar,382
+Myth Drannor,Lonelywood,229
+Thundertree,Nightstone,470
+Phlan,Myth Drannor,260
+Duskwood,Temple of Elemental Evil,462
+Westgate,Mount Celestia,369
+Shadowdale,Baldur's Gate,250
+Beregost,Highcliff,324
+Icewind Dale,Red Larch,163
+Highcliff,Myth Drannor,299
+Temple of Elemental Evil,Neverwinter,113
+Daggerford,Highcliff,331
+Moonshae Isles,Greenest,138
+High Forest,Triboar,67
+Myth Drannor,Westgate,185
+Helm's Hold,Luskan,272
+Luskan,Peldan's Helm,484
+Highcliff,Karak Eight Peaks,412
+Elmwood,Myth Drannor,430
+Mount Celestia,Candlekeep,177
+Westgate,Waterdeep,449
+Westgate,Myth Drannor,214
+Thundertree,Elturel,397
+Waterdeep,Mt. Grimfang,479
+Amn,Moonshae Isles,456
+Helm's Hold,Phlan,416
+High Forest,Westgate,120
+Duskwood,Beregost,130
+Silverymoon,Peldan's Helm,388
+Lonelywood,Shadowdale,468
+Highcliff,Karak Eight Peaks,348
+Peldan's Helm,Mount Celestia,134
+Moonshae Isles,Phlan,136
+Ironforge,Peldan's Helm,334
+Mount Celestia,Elmwood,120
+Icewind Dale,Daggerford,201
+Greenest,Baldur's Gate,172
+Mount Celestia,Neverwinter,482
+Menzoberranzan,Greenest,172
+Myth Drannor,Nightstone,480
+Luskan,Calimport,406
+Mount Celestia,Nashkel,234
+High Forest,Menzoberranzan,410
+Peldan's Helm,Icewind Dale,232
+Greenest,Icewind Dale,108
+Ironforge,Mirabar,364
+Myth Drannor,Waterdeep,192
+Nashkel,Beregost,403
+Mirabar,Candlekeep,302
+Thundertree,Skullport,64
+Helm's Hold,Mt. Grimfang,488
+Westgate,Ironforge,282
+Mt. Grimfang,Duskwood,326
+Highcliff,Phlan,298
+Skullport,Icewind Dale,282
+Thundertree,Temple of Elemental Evil,52
+Elturel,Mt. Grimfang,169
+Thundertree,Silverymoon,188
+Port Llast,Amn,232
+Skullport,Beregost,115
+Calimport,Duskwood,182
+Dagger Falls,Baldur's Gate,240
+Daggerford,Beregost,222
+Mt. Grimfang,Baldur's Gate,388
+Neverwinter,Elturel,476
+Skullport,Mount Celestia,229
+Moonshae Isles,Candlekeep,212
+Duskwood,Thundertree,52
+Myth Drannor,Lonelywood,369
+Waterdeep,Temple of Elemental Evil,87
+Elmwood,Greenest,447
+Candlekeep,Westgate,427
+Karak Eight Peaks,Amn,96
+Duskwood,Greenest,430
+Candlekeep,Dagger Falls,72
+Amn,Lonelywood,216
+Menzoberranzan,Moonshae Isles,177
+Duskwood,Lonelywood,299
+Peldan's Helm,Phlan,239
+Westgate,Candlekeep,208
+Moonshae Isles,Nashkel,190
+Waterdeep,Temple of Elemental Evil,355
+Greenest,Nightstone,455
+Candlekeep,Duskwood,94
+Karak Eight Peaks,Icewind Dale,363
+Phlan,Myth Drannor,299
+Phlan,Mt. Grimfang,367
+Duskwood,Icewind Dale,223
+Daggerford,Silverymoon,220
+Skullport,High Forest,403
+Triboar,Luskan,93
+Nashkel,Moonshae Isles,177
+Red Larch,Moonshae Isles,284
+Moonshae Isles,Temple of Elemental Evil,56
+Red Larch,Thundertree,284
+Myth Drannor,Mount Celestia,254
+Baldur's Gate,Karak Eight Peaks,303
+Calimport,Beregost,122
+Karak Eight Peaks,Beregost,70
+Port Llast,Mt. Grimfang,490
+Beregost,Mount Celestia,319
+Moonshae Isles,Neverwinter,99
+Skullport,Greenest,416
+Beregost,Nashkel,394
+Highcliff,Neverwinter,448
+Waterdeep,Elmwood,54
+Highcliff,Duskwood,118
+Port Llast,Elturel,111
+High Forest,Triboar,353
+Temple of Elemental Evil,Westgate,344
+Lonelywood,Baldur's Gate,55
+Helm's Hold,Beregost,101
+Daggerford,Helm's Hold,53
+Westgate,Candlekeep,76
+Westgate,Myth Drannor,216
+Peldan's Helm,Moonshae Isles,289
+Duskwood,Shadowdale,169
+Mirabar,Menzoberranzan,124
+Red Larch,Phlan,107
+Mirabar,Triboar,144
+Temple of Elemental Evil,Moonshae Isles,468
+Nashkel,Luskan,105
+Ironforge,Neverwinter,249
+Lonelywood,Red Larch,348
+Moonshae Isles,Myth Drannor,224
+Waterdeep,High Forest,418
+Myth Drannor,Highcliff,444
+Baldur's Gate,Duskwood,64
+Mount Celestia,Westgate,98
+Shadowdale,Baldur's Gate,226
+Mt. Grimfang,Beregost,427
+Phlan,Helm's Hold,299
+Nightstone,Luskan,497
+Neverwinter,Duskwood,112
+Temple of Elemental Evil,Triboar,279
+Baldur's Gate,Skullport,271
+Nashkel,Duskwood,257
+Duskwood,Waterdeep,293
+Beregost,Elmwood,166
+Greenest,Baldur's Gate,457
+Silverymoon,High Forest,250
+Calimport,Duskwood,445
+Luskan,Daggerford,304
+Baldur's Gate,Elmwood,142
+High Forest,Silverymoon,195
+Port Llast,Red Larch,411
+Westgate,Skullport,199
+Candlekeep,Ironforge,65
+Icewind Dale,Phlan,175
+Mt. Grimfang,Highcliff,460
+Westgate,Port Llast,398
+Shadowdale,Ironforge,281
+Moonshae Isles,Shadowdale,87
+Highcliff,Moonshae Isles,250
+Triboar,Silverymoon,237
+Luskan,Port Llast,404
+Lonelywood,Port Llast,396
+Elmwood,Westgate,194
+Waterdeep,Calimport,380
+Shadowdale,Duskwood,125
+Silverymoon,Neverwinter,485
+High Forest,Lonelywood,337
+Myth Drannor,Beregost,306
+Mirabar,Candlekeep,126
+Temple of Elemental Evil,Icewind Dale,487
+Karak Eight Peaks,Mount Celestia,154
+Neverwinter,Menzoberranzan,342
+Duskwood,Myth Drannor,163
+Myth Drannor,Triboar,272
+Calimport,Helm's Hold,63
+Shadowdale,Ironforge,405
+Mount Celestia,Amn,477
+Triboar,Westgate,77
+Highcliff,Phlan,268
+Neverwinter,Greenest,441
+Candlekeep,Dagger Falls,451
+Candlekeep,Mount Celestia,194
+Helm's Hold,Calimport,214
+Skullport,Luskan,412
+Nightstone,Amn,353
+Duskwood,Ironforge,392
+High Forest,Duskwood,236
+Calimport,Mt. Grimfang,479
+Duskwood,Helm's Hold,498
+Nightstone,Nashkel,402
+Shadowdale,Beregost,96
+Amn,Daggerford,142
+Nashkel,Helm's Hold,255
+Duskwood,Helm's Hold,168
+Beregost,Greenest,396
+Amn,Nightstone,103
+Ironforge,Triboar,146
+Icewind Dale,Menzoberranzan,372
+Ironforge,Skullport,143
+Luskan,Shadowdale,325
+Duskwood,Nightstone,263
+Duskwood,Triboar,479
+Nightstone,Luskan,468
+Duskwood,Daggerford,105
+Phlan,Highcliff,299
+Temple of Elemental Evil,Lonelywood,461
+Candlekeep,Mirabar,379
+Icewind Dale,Moonshae Isles,405
+Temple of Elemental Evil,Port Llast,488
+Moonshae Isles,Calimport,197
+Moonshae Isles,Red Larch,78
+Mount Celestia,Menzoberranzan,374
+Candlekeep,Lonelywood,446
+Elmwood,Helm's Hold,126
+Duskwood,Waterdeep,53
+Westgate,Dagger Falls,186
+Mount Celestia,Ironforge,297
+Mt. Grimfang,Waterdeep,116
+Port Llast,Myth Drannor,82
+Highcliff,Westgate,184
+Beregost,Temple of Elemental Evil,113
+Highcliff,Amn,497
